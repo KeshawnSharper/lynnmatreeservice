@@ -122,7 +122,7 @@ function sendMail(){
      sender_last_name: document.querySelector("#sender_last_name").value,
      sender_phone_number:document.querySelector("#sender_phone_number").value,
      to: "awskeshawn@gmail.com",
-     client:"Wyoming, MI(No CLient Now)",
+     client:"Lynn,MA(No CLient Now)",
      sender_email: document.querySelector("#sender_email").value,
      message: document.querySelector("#message").value
  }
